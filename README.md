@@ -10,3 +10,4 @@
 ## Awards and Recognition
 - [Genius in Africa Working Principle Challenge, Certificate of Award (Jan 2025)](https://github.com/Oluwasemilore-Idowu/Oluwasemilore-Idowu/blob/main/certificates/Genius%20In%20Africa.jpg)
 - [TESA Brand Publicity Team, Certificate of Recognition (Feb 2026)](https://github.com/Oluwasemilore-Idowu/Oluwasemilore-Idowu/blob/main/certificates/TESA%20Brand%20Team%20Volunteer%2024_25%20Session%20%281%29%20%281%29.png)
+- [HCIA-Security V4.0, Course Completion (Huawei ICT Academy, Nov 2026)](https://github.com/Oluwasemilore-Idowu/Oluwasemilore-Idowu/blob/main/certificates/hcia-security-2026.png)
